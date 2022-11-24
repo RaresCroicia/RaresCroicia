@@ -42,8 +42,11 @@ Currently I am a Computer Science student, studying at ACS - UPB
 - A browser made in CLI to render html pages
 
 ## Stats
-
-<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RaresCroicia&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+<p>
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RaresCroicia&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaresCroicia&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+</p>
 
 ## Goodbye
 Hope I didn't make you bored to read this, so thanks if you reached this :)
