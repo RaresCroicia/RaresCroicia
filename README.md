@@ -41,6 +41,10 @@ Currently I am a Computer Science student, studying at ACS - UPB
 - C
 - A browser made in CLI to render html pages
 
+## Stats
+
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RaresCroicia&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+
 ## Goodbye
 Hope I didn't make you bored to read this, so thanks if you reached this :)
 
