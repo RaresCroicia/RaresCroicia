@@ -1,3 +1,3 @@
-# Ello wave
+# Ello :wave:
 
 
