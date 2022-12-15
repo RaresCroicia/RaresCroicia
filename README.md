@@ -41,6 +41,10 @@ Currently I am a Computer Science student, studying at ACS - UPB
 - C
 - A browser made in CLI to render html pages
 
+### Mitrica Discord Bot
+- Javascript with discord.js
+- A discord bot made for fun with commands relatable to my group of friends
+
 ## Stats
 <p>
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RaresCroicia&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
